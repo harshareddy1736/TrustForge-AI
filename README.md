@@ -4,6 +4,10 @@
 
 TrustForge AI is a full-stack software supply-chain security platform. It inventories supported dependencies, enriches package/version matches with OSV advisories, detects selected secret-like patterns and Dockerfile risks, prioritizes findings, and exports security artifacts. It is designed to be evidence-first: findings retain advisory references, package/version context, and remediation guidance.
 
+## Dashboard Preview
+
+![TrustForge AI Dashboard](docs/screenshots/dashboard.png)
+
 > **Scope honesty:** This release uses deterministic rules and live OSV advisory data. It does not run an LLM, execute repository code, authenticate to private repositories, or automatically modify dependencies. “AI” is the project name; the implemented analysis is explainable static analysis and vulnerability-data enrichment.
 
 ## What is implemented
