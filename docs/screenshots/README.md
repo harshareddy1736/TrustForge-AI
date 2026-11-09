@@ -1,0 +1,1 @@
+Place genuine screenshots captured from your running TrustForge AI dashboard in this folder. Suggested files: `overview.png`, `findings.png`, and `sbom-export.png`. Do not commit screenshots containing tokens, private repository data, or personal filesystem paths.
